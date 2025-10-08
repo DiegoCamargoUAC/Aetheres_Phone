@@ -1,0 +1,9 @@
+node_modules
+.DS_Store
+dist/
+.env
+.vite
+public/icons/**
+public/**/*.{png,jpg,jpeg,gif,webp,ico,svg}
+public/**/*.{mp3,mp4,wav,ogg}
+*.zip
