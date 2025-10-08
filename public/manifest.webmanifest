@@ -1,0 +1,9 @@
+{
+  "name": "Alliance Voice PWA",
+  "short_name": "AllianceVoice",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#2563eb",
+  "description": "Softphone minimalista para agentes con Twilio Voice"
+}
